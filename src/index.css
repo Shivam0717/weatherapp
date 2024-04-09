@@ -1,0 +1,8 @@
+body{
+  padding: 50px;
+  text-align: center;
+  background-image: linear-gradient(to bottom, rgb(0, 106, 255),rgb(64, 176, 228),rgb(38, 194, 221),rgb(29, 229, 255),white);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: fixed;
+}
